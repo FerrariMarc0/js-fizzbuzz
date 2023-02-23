@@ -1,5 +1,7 @@
 'use strict';
 
+const box = document.querySelector('.container');
+
 for(let i = 1; i <= 100; i++){
 
     if (i % 3 === 0 && i % 5 === 0){
@@ -11,4 +13,7 @@ for(let i = 1; i <= 100; i++){
      }else {
         console.log(i)
      }
+     const div = document.createElement('div');
+     box.append(div);
+
 }
