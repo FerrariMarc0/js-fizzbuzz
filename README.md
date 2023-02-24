@@ -13,4 +13,4 @@ Consegna:
 // elaboro un condizione che stampi in console "fizzbuzz" SE incontra i multipli di 3 e 5
  // ALTRIMENTI, che stampi "fizz" SE incontra i multipli di 3 
   // ALTRIMENTI, che stampi "buzz" SE incontra i multipli di 5
-// esco dalla condizione stmapando il valore dell'indice
+// esco dalla condizione stampando il valore dell'indice

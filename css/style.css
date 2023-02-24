@@ -20,11 +20,10 @@ body{
     padding: 1.25rem;
 }
 
-.container div{
-    width: calc(100% / 15);
+.item{
+    width: calc(100% / 11);
     background-color: gold;
     text-align: center;
     line-height: 6.25rem;
     font-size: 20px;
-    font-weight: 900;
 }
